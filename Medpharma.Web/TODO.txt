@@ -1,0 +1,22 @@
+﻿- Verificar email de edição.
+- Verificar Redirect Login depois do registo.
+
+- DateTimePicker - [https://getdatepicker.com/](https://getdatepicker.com/) (campos: data de nascimento/consultas).
+
+- Prevent multiple submits on click:
+
+$('form').submit(function () {
+            if ($(this).valid()) {
+                $(this).find(':submit').attr('disabled', 'disabled');
+            }
+        });
+
+- Change default customer password.
+
+- Colocar tables novamente responsivas.
+
+- Restrição no tempo de edição/cancelamento da consulta.
+
+- Disable users.
+
+- Converter .html em .pdf.
